@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Drone",
+  "name": "DroneCraft",
+  "description": "Utilize Robots To Perform Tasks",
+  "version": "0.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "minecello"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
